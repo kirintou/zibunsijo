@@ -1,18 +1,21 @@
 
 .header {
+  width: 100%;
   padding: 60px;
   text-align: center;
   background: #1abc9c;
   color: white;
-  font-size: 30px;
   
-  white-space:nowrap;
 }
 .header h1 {
-    width: 100%;
+  font-size: 80px;
+  width: 100%;
+  white-space:nowrap;
 }
 .header p {
-    width: 100%;
+  font-size: 30px;
+  width: 100%;
+  white-space:nowrap;
 }
 
 img{
